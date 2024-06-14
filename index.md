@@ -23,7 +23,7 @@ Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach ta
 
 int main() {
     std::cout << "Hello, world!" << std::endl;
-    return 0;
+    return 0; e
 }
 
 ```
