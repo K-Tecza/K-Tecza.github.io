@@ -16,21 +16,16 @@ Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach ta
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Kod C++ w ładnej ramce
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
 }
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
 ```
 
 #### Header 4
