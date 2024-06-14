@@ -1,19 +1,15 @@
 ---
 layout: default
 ---
-12345678
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Podstawy Języków Programowania
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach takich języków programowania jak C++, Kotlin, Java i Python.
 ## Header 2
 
 > This is a blockquote following a header.
