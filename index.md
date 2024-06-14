@@ -14,15 +14,17 @@ Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach ta
 ## Przejdź do podstrony
 
 <a href="/C++" class="button">Przejdź do strony "C++"</a>
-### Header 3
+
 
 
 
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+#  C++
+int a = 5;
+double b = 3.14;
+char c = 'A';
+std::string str = "Hello";
+
 ```
 
 #### Header 4
