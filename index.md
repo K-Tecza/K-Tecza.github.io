@@ -10,21 +10,27 @@ layout: default
 # Podstawy Języków Programowania
 
 Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach takich języków programowania jak C++, Kotlin, Java i Python.
+## Header 2
 
-## Przejdź do podstrony
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-<a href="/C++" class="button">Przejdź do strony "C++"</a>
+### Header 3
 
-
-
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
 ```ruby
-#  C++
-int a = 5;
-double b = 3.14;
-char c = 'A';
-std::string str = "Hello";
-
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
 ```
 
 #### Header 4
