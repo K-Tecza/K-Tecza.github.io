@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[Strona Główna](index.md)
+[Strona Główna](index.md) [C++](C++.md)
+
 
 ## Podstawy Kotlin
 

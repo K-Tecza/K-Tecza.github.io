@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Strona Główna](index.md)
+[Strona Główna](index.md) [Kotlin](Kotlin.md)
 
 
 ## Podstawy C++

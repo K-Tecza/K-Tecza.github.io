@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Kotlin](Kotlin.md)
+[Kotlin](Kotlin.md) [C++](C++.md)
 
 
 # Podstawy Języków Programowania
