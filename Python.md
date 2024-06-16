@@ -63,3 +63,18 @@ if a > 5:
 else:
     print("A nie jest większe niż 5")
 ```
+### Pętle
+
+Python oferuje pętle `for` i `while` do iteracji:
+
+```python
+# Pętla for
+for i in range(5):
+    print(i)
+
+# Pętla while
+i = 0
+while i < 5:
+    print(i)
+    i += 1
+```
