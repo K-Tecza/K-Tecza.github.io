@@ -25,7 +25,7 @@ Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach ta
 * Wsparcie dla wielu paradygmatów: C++ obsługuje różne paradygmaty programowania, w tym programowanie proceduralne, obiektowe i generyczne.
 * C++ jest szeroko stosowany w rozwoju systemów operacyjnych, gier, aplikacji o wysokiej wydajności, a także w systemach wbudowanych.
  
-* [![Przycisk](C++_Picture.png)](C++.html)
+[![Przycisk](C++_Picture.png)](C++.html)
 
 </details>
 
