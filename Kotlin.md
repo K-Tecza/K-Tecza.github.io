@@ -20,3 +20,13 @@ Typy danych są przypisywane przy użyciu słowa kluczowego `var` (dla zmiennych
 val number: Int = 42
 var message: String = "Hello, Kotlin!"
 ```
+
+### Funkcje
+
+Deklaracja funkcji odbywa się za pomocą słowa kluczowego `fun`. Funkcje mogą być globalne albo zdefiniowane wewnątrz klas i innych struktur. Kotlin wspiera funkcje zwracające wartości oraz funkcje, które nie zwracają wartości (funkcje procedur).
+
+```kotlin
+fun add(a: Int, b: Int): Int {
+    return a + b
+}
+```
