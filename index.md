@@ -29,7 +29,9 @@ Strony Partnerskie
 
 [Facebook](https://m.facebook.com/zstkolbuszowa) | [Strona](https://bartdurak.github.io/1a/) | [Blogspot](http://pbud.blogspot.com) | [YouTube](https://www.youtube.com/@bartomiejdurak1723)
 
-
+<footer>
+<p>Strona wykonana przez : Krystian Tęcza</p>
+</footer>
 
 
 
