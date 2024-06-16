@@ -19,7 +19,7 @@ Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach ta
 
 ## Strona Poświęcona Kotlin
 
-[![Przycisk](Kotlin.png)](Kotlin.md)
+[![Przycisk](Kotlin.png)](Kotlin.html)
 
 
 
