@@ -78,3 +78,10 @@ myCar.displayInfo()
 
 #### Zastosowanie
 Ten kod demonstruje podstawy tworzenia klas i obiektów w Kotlinie oraz sposób definiowania konstruktorów i metod w tej języku. Jest to podstawowy przykład programowania obiektowego w Kotlinie, gdzie `Car` jest klasą reprezentującą samochód, a `displayInfo()` jest metodą do wyświetlania informacji o danym samochodzie.
+
+### Null Safety
+
+Kotlin promuje bezpieczeństwo nulli poprzez wprowadzenie systemu typów, które wymuszają świadome zarządzanie możliwością wystąpienia nulli (Nullable types).
+```kotlin
+var nullableString: String? = null
+```
