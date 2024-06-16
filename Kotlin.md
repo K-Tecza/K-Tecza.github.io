@@ -67,3 +67,14 @@ class Car(val brand: String, val model: String) {
 val myCar = Car("Toyota", "Corolla")
 myCar.displayInfo()
 ```
+1. Definicja klasy `Car`:
+   * `class Car(val brand: String, val model: String)` definiuje klasę Car z dwoma właściwościami: `brand` (marka) i `model` (model), obie zadeklarowane jako parametry konstruktora (w Kotlinie `val` oznacza, że są to właściwości tylko do odczytu).
+2. Metoda `displayInfo()`:
+   * Jest to metoda wewnętrzna klasy `Car`, która drukuje na konsolę informacje o marce i modelu samochodu za pomocą interpolacji ciągów Kotlin (`"Brand: $brand, Model: $model"`).
+3. Tworzenie obiektu `myCar`:
+   * `val myCar = Car("Toyota", "Corolla")` tworzy nowy obiekt typu `Car` o marce "Toyota" i modelu "Corolla".
+4. Wywołanie metody `displayInfo()`:
+   * `myCar.displayInfo()` wywołuje metodę `displayInfo()` na obiekcie `myCar`, co powoduje wydrukowanie na konsolę tekstu "Brand: Toyota, Model: Corolla".
+
+#### Zastosowanie
+Ten kod demonstruje podstawy tworzenia klas i obiektów w Kotlinie oraz sposób definiowania konstruktorów i metod w tej języku. Jest to podstawowy przykład programowania obiektowego w Kotlinie, gdzie `Car` jest klasą reprezentującą samochód, a `displayInfo()` jest metodą do wyświetlania informacji o danym samochodzie.
