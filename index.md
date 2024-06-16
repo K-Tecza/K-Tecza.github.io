@@ -12,7 +12,7 @@ layout: default
 Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach takich języków programowania jak C++, Kotlin, Java i Python. Każdy z tych języków oferuje unikalne możliwości i zastosowania. C++ jest wszechstronnym językiem, idealnym do niskopoziomowej programowania oraz tworzenia efektywnych aplikacji. Kotlin, będący językiem współpracującym z Java na platformie Android, znakomicie sprawdza się w programowaniu aplikacji mobilnych. Java, z kolei, jest jednym z najpopularniejszych języków na świecie, stosowanym w szerokim spektrum aplikacji, od desktopowych po rozwiązania enterprise. Python, z łatwością nauki i czytelną składnią, jest wyborem nr 1 dla analizy danych, sztucznej inteligencji oraz automatyzacji zadań. Zapraszamy do odkrywania różnych aspektów tych języków programowania i rozwijania swoich umiejętności w programowaniu.
 
 
-[## Strona Poświęcona C++](Kotlin.md)
+[Strona Poświęcona C++](C++.md)
 
 
 <details>
@@ -27,9 +27,8 @@ Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach ta
 
 </details>
 
-[![Przycisk](C++_Picture.png)](C++.html)
+[Strona Poświęcona Kotlin](Kotlin.md)
 
-## Strona Poświęcona Kotlin
 <details>
   <summary>Kliknij tutaj, aby zobaczyć więcej</summary>
   Kotlin to nowoczesny, statycznie typowany język programowania, stworzony przez JetBrains, który działa na maszynie wirtualnej Javy (JVM) i może być używany wszędzie tam, gdzie używana jest Java. Kotlin został zaprojektowany, aby być bardziej wyrazistym i bezpiecznym niż Java, eliminując wiele problemów związanych z błędami w kodzie. Kotlin jest w pełni interoperacyjny z Javą, co oznacza, że kod napisany w Kotlinie może współpracować z kodem napisanym w Javie bez żadnych problemów. Jest szczególnie popularny wśród programistów tworzących aplikacje na Androida, ponieważ Google ogłosił go jako preferowany język programowania dla tej platformy.
@@ -45,7 +44,8 @@ Kotlin jest używany przez wiele dużych firm i projektów open-source, co potwi
 
 [![Przycisk](Kotlin.png)](Kotlin.html)
 
-## Strona Poświęcona Python
+[Strona Poświęcona Python](Python.md)
+
 <details>
   <summary>Kliknij tutaj, aby zobaczyć więcej</summary>
  Python to wszechstronny, wysokopoziomowy język programowania, który jest znany ze swojej prostoty i czytelności. Został stworzony przez Guido van Rossuma i po raz pierwszy wydany w 1991 roku. Python jest językiem interpretowanym, co oznacza, że kod jest wykonywany bezpośrednio przez interpreter, a nie kompilowany do kodu maszynowego.
