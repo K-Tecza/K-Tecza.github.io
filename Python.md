@@ -26,7 +26,7 @@ my_bool = True  # Wartość logiczna True/False
 ```
 ### Operatory
 
-Python oferuje standardowe operatory arytmetyczne i logiczne:
+Python oferuje standardowe operatory arytmetyczne, porównania i logiczne:
 
 #### Aritmetyczne
 
