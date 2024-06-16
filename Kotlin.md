@@ -81,7 +81,7 @@ Ten kod demonstruje podstawy tworzenia klas i obiektów w Kotlinie oraz sposób 
 
 ### Null Safety
 
-Kotlin promuje bezpieczeństwo nulli poprzez wprowadzenie systemu typów, które wymuszają świadome zarządzanie możliwością wystąpienia nulli (Nullable types).
+Kotlin promuje bezpieczeństwo nulli poprzez wprowadzenie systemu typów, które wymuszają świadome zarządzanie możliwością wystąpienia nulli (`Nullable` types).
 ```kotlin
 var nullableString: String? = null
 ```
