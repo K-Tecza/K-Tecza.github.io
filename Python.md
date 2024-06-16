@@ -51,5 +51,15 @@ is_less_equal = (10 <= 5)  # Mniejsze lub równe
 logical_and = (True and False)  # AND logiczne
 logical_or = (True or False)  # OR logiczne
 logical_not = not True  # NOT logiczne
+```
+### Instrukcje warunkowe
 
+Instrukcje warunkowe pozwalają na wykonanie różnych fragmentów kodu w zależności od warunku:
+
+```python
+a = 10
+if a > 5:
+    print("A jest większe niż 5")
+else:
+    print("A nie jest większe niż 5")
 ```
