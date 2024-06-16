@@ -10,13 +10,11 @@ layout: default
 # Podstawy Języków Programowania
 
 Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach takich języków programowania jak C++, Kotlin, Java i Python.
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-## Kod C++ w ładnej ramce
+## Kod C++ 
+
+Ten program w C++ wypisuje na ekran tekst "Hello, world!". Używa #include <iostream> do włączenia biblioteki standardowej umożliwiającej wejście i wyjście, a std::cout do wypisania tekstu. Funkcja main zwraca 0, co oznacza, że program zakończył się bez błędów.
 
 ```cpp
 #include <iostream>
