@@ -12,7 +12,7 @@ layout: default
 Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach takich języków programowania jak C++, Kotlin, Java i Python. Każdy z tych języków oferuje unikalne możliwości i zastosowania. C++ jest wszechstronnym językiem, idealnym do niskopoziomowej programowania oraz tworzenia efektywnych aplikacji. Kotlin, będący językiem współpracującym z Java na platformie Android, znakomicie sprawdza się w programowaniu aplikacji mobilnych. Java, z kolei, jest jednym z najpopularniejszych języków na świecie, stosowanym w szerokim spektrum aplikacji, od desktopowych po rozwiązania enterprise. Python, z łatwością nauki i czytelną składnią, jest wyborem nr 1 dla analizy danych, sztucznej inteligencji oraz automatyzacji zadań. Zapraszamy do odkrywania różnych aspektów tych języków programowania i rozwijania swoich umiejętności w programowaniu.
 
 
-[Strona Poświęcona C++](C++.md)
+## [Strona Poświęcona C++](C++.md)
 
 
 <details>
@@ -30,7 +30,7 @@ Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach ta
 
 
 
-[Strona Poświęcona Kotlin](Kotlin.md)
+## [Strona Poświęcona Kotlin](Kotlin.md)
 
 <details>
   <summary>Kliknij tutaj, aby zobaczyć więcej</summary>
@@ -47,7 +47,7 @@ Kotlin jest używany przez wiele dużych firm i projektów open-source, co potwi
 
 [![Przycisk](Kotlin.png)](Kotlin.html)
 
-[Strona Poświęcona Python](Python.md)
+## [Strona Poświęcona Python](Python.md)
 
 <details>
   <summary>Kliknij tutaj, aby zobaczyć więcej</summary>
