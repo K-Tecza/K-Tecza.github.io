@@ -43,7 +43,24 @@ C++ oferuje kilka podstawowych typów danych:
 - **Boolowskie:** `bool`
 - **Typy bez znaku:** `unsigned int`, `unsigned char`, itp.
 
+### 4. Zmienne i stałe
 
+#### Deklarowanie i inicjalizowanie zmiennych
+
+##### Zmienne
+
+Zmienną można zadeklarować i jednocześnie zainicjalizować, przypisując jej wartość :
+```cpp
+int myNumber = 5;
+char myCharacter = 'A';
+bool isReady = true;
+```
+##### Stałe
+
+Stałe to zmienne, których wartość nie może zostać zmieniona po inicjalizacji. Deklaruje się je przy użyciu słowa kluczowego const:
+```cpp
+const int DAYS_IN_WEEK = 7;
+```
 #### Header 4
 
 *   This is an unordered list following a header.
