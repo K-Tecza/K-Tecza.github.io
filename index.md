@@ -12,16 +12,24 @@ layout: default
 Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach takich języków programowania jak C++, Kotlin, Java i Python.
 
 
-## Kod C++ 
+## Podstawy C++
 
-Ten program w C++ wypisuje na ekran tekst "Hello, world!". Używa #include <iostream> do włączenia biblioteki standardowej umożliwiającej wejście i wyjście, a std::cout do wypisania tekstu. Funkcja main zwraca 0, co oznacza, że program zakończył się bez błędów.
+### 1. Wprowadzenie do C++
+
+C++ jest językiem programowania ogólnego przeznaczenia, który wspiera programowanie proceduralne, obiektowe i generyczne. Jest rozszerzeniem języka C i zawiera wiele jego funkcji.
+
+### 2. Podstawowa składnia
+
+#### Program Hello World
+
+Najprostszy program w C++ wypisujący "Hello, World!" wygląda tak:
 
 ```cpp
-#include <iostream>
+#include <iostream> // Biblioteka do wejścia/wyjścia
 
 int main() {
-    std::cout << "Hello, world!" << std::endl;
-    return 0; e
+    std::cout << "Hello, World!" << std::endl; // Wypisanie tekstu
+    return 0; // Zakończenie programu
 }
 
 ```
