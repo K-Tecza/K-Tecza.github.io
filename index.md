@@ -61,6 +61,39 @@ Stałe to zmienne, których wartość nie może zostać zmieniona po inicjalizac
 ```cpp
 const int DAYS_IN_WEEK = 7;
 ```
+### 5. Operatory
+
+#### Aritmetyczne
+
+- `+` (dodawanie)
+- `-` (odejmowanie)
+- `*` (mnożenie)
+- `/` (dzielenie)
+- `%` (modulo)
+
+#### Porównania
+
+- `==` (równe)
+- `!=` (różne)
+- `<` (mniejsze)
+- `>` (większe)
+- `<=` (mniejsze lub równe)
+- `>=` (większe lub równe)
+
+#### Logiczne
+
+- `&&` (logiczne AND)
+- `||` (logiczne OR)
+- `!` (logiczne NOT)
+
+#### Przypisania
+
+- `=` (przypisanie)
+- `+=` (dodaj i przypisz)
+- `-=` (odejmij i przypisz)
+- `*=` (pomnóż i przypisz)
+- `/=` (podziel i przypisz)
+- `%=` (modulo i przypisz)
 #### Header 4
 
 *   This is an unordered list following a header.
