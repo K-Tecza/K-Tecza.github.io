@@ -211,7 +211,9 @@ int main() {
 ### Wskaźniki:
 
 * Definicja: Wskaźniki są zmiennymi, które przechowują adres pamięci komputera, zamiast bezpośredniej wartości.
+
 * Użycie: Są używane do bezpośredniego manipulowania pamięcią komputera oraz do przekazywania adresów zmiennych do funkcji.
+
 * Dereferencja: Operator * używany jest do dostępu do wartości przechowywanej pod adresem, który wskaźnik przechowuje.
 ```cpp
 int a = 10;
@@ -220,7 +222,9 @@ std::cout << "Value of a: " << *ptr << std::endl; // Dereferencja wskaźnika
 ```
 ### Referencje 
 * Definicja: Referencje są aliasami istniejących zmiennych. Po zainicjowaniu referencji, może być używana zamiennie z oryginalną zmienną.
+
 * Charakterystyka: Są bezpieczniejsze w użyciu niż wskaźniki, ponieważ nie mogą być nullami ani zmieniać referencji na inne obiekty po zainicjowaniu.
+
 * Sposób działania: Zmiany dokonywane na referencji bezpośrednio wpływają na zmienną, do której się odwołuje.
 ```cpp
 int a = 10;
