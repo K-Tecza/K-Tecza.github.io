@@ -33,6 +33,16 @@ int main() {
 }
 
 ```
+### 3. Typy danych
+
+C++ oferuje kilka podstawowych typów danych:
+
+- **Liczby całkowite:** `int`, `short`, `long`, `long long`
+- **Liczby zmiennoprzecinkowe:** `float`, `double`, `long double`
+- **Znaki:** `char`
+- **Boolowskie:** `bool`
+- **Typy bez znaku:** `unsigned int`, `unsigned char`, itp.
+
 
 #### Header 4
 
