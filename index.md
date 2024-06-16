@@ -94,6 +94,27 @@ const int DAYS_IN_WEEK = 7;
 - `*=` (pomnóż i przypisz)
 - `/=` (podziel i przypisz)
 - `%=` (modulo i przypisz)
+
+### 6. Struktury sterujące
+
+#### Instrukcje warunkowe
+
+```cpp
+int a = 10;
+if (a > 5) {
+    std::cout << "A jest większe niż 5" << std::endl;
+} else {
+    std::cout << "A nie jest większe niż 5" << std::endl;
+}
+```
+Krótko opisując:
+
+Zmienna a jest inicjalizowana wartością 10.
+Warunek if (a > 5) sprawdza, czy wartość zmiennej a jest większa od 5.
+Jeśli warunek jest spełniony (czyli a jest większe od 5), wyświetlany jest komunikat "A is greater than 5".
+W przeciwnym razie (gdy a nie jest większe od 5), wyświetlany jest komunikat "A is not greater than 5".
+W ten sposób program decyduje, który komunikat powinien zostać wyświetlony na podstawie wartości zmiennej a.
+
 #### Header 4
 
 *   This is an unordered list following a header.
