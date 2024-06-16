@@ -9,8 +9,6 @@ layout: default
 
 # Podstawy Języków Programowania
 
-Oczywiście, oto rozwinięty tekst:
-
 Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach takich języków programowania jak C++, Kotlin, Java i Python. Każdy z tych języków oferuje unikalne możliwości i zastosowania. C++ jest wszechstronnym językiem, idealnym do niskopoziomowej programowania oraz tworzenia efektywnych aplikacji. Kotlin, będący językiem współpracującym z Java na platformie Android, znakomicie sprawdza się w programowaniu aplikacji mobilnych. Java, z kolei, jest jednym z najpopularniejszych języków na świecie, stosowanym w szerokim spektrum aplikacji, od desktopowych po rozwiązania enterprise. Python, z łatwością nauki i czytelną składnią, jest wyborem nr 1 dla analizy danych, sztucznej inteligencji oraz automatyzacji zadań. Zapraszamy do odkrywania różnych aspektów tych języków programowania i rozwijania swoich umiejętności w programowaniu.
 
 ## Strona Poświęcona C++
@@ -45,7 +43,19 @@ Kotlin jest używany przez wiele dużych firm i projektów open-source, co potwi
 [![Przycisk](Kotlin.png)](Kotlin.html)
 
 ## Strona Poświęcona Python
+<details>
+  <summary>Kliknij tutaj, aby zobaczyć więcej</summary>
+ Python to wszechstronny, wysokopoziomowy język programowania, który jest znany ze swojej prostoty i czytelności. Został stworzony przez Guido van Rossuma i po raz pierwszy wydany w 1991 roku. Python jest językiem interpretowanym, co oznacza, że kod jest wykonywany bezpośrednio przez interpreter, a nie kompilowany do kodu maszynowego.
 
+Kilka kluczowych cech Pythona:
+
+Czytelna składnia: Python jest zaprojektowany z myślą o czytelności kodu, co czyni go łatwym do nauki i zrozumienia.
+Wszechstronność: Python jest używany w wielu dziedzinach, takich jak web development, data science, sztuczna inteligencja, automatyzacja, analiza danych, tworzenie aplikacji desktopowych, a nawet w przemyśle gier.
+Duża społeczność i bogaty ekosystem bibliotek: Python posiada ogromną liczbę bibliotek i frameworków, takich jak Django i Flask do web developmentu, NumPy i pandas do analizy danych, TensorFlow i PyTorch do uczenia maszynowego.
+Interaktywny i dynamiczny: Python umożliwia interaktywną pracę dzięki interpretere, co jest szczególnie przydatne podczas testowania kodu i uczenia się.
+Python jest używany przez wiele dużych firm technologicznych i organizacji, takich jak Google, Facebook, NASA, czy CERN, co świadczy o jego mocy i wszechstronności. Dzięki swojej prostocie i ogromnym możliwościom, Python jest jednym z najpopularniejszych języków programowania na świecie.
+
+</details>
 [![Przycisk](Python.png)](Python.html)
 
 Strony Partnerskie
