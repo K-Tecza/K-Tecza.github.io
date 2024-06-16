@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[Kotlin](Kotlin.md) | [C++](C++.md)
+[Kotlin](Kotlin.md) | [C++](C++.md) | [Python](Python.md)
+
 
 
 
