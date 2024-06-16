@@ -78,3 +78,13 @@ while i < 5:
     print(i)
     i += 1
 ```
+### Funkcje
+
+Definiowanie i wywoływanie funkcji w Pythonie:
+
+```python
+def greet(name):
+    print("Hello, " + name + "!")
+    
+greet("Alice")
+``` 
