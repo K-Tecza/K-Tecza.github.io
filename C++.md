@@ -8,11 +8,11 @@ layout: default
 
 ## Podstawy C++
 
-### 1. Wprowadzenie do C++
+###  Wprowadzenie do C++
 
 C++ jest językiem programowania ogólnego przeznaczenia, który wspiera programowanie proceduralne, obiektowe i generyczne. Jest rozszerzeniem języka C i zawiera wiele jego funkcji.
 
-### 2. Podstawowa składnia
+### Podstawowa składnia
 
 #### Program Hello World
 
@@ -27,7 +27,7 @@ int main() {
 }
 
 ```
-### 3. Typy danych
+### Typy danych
 
 C++ oferuje kilka podstawowych typów danych:
 
@@ -37,7 +37,7 @@ C++ oferuje kilka podstawowych typów danych:
 - **Boolowskie:** `bool`
 - **Typy bez znaku:** `unsigned int`, `unsigned char`, itp.
 
-### 4. Zmienne i stałe
+### Zmienne i stałe
 
 #### Deklarowanie i inicjalizowanie zmiennych
 
@@ -55,7 +55,7 @@ Stałe to zmienne, których wartość nie może zostać zmieniona po inicjalizac
 ```cpp
 const int DAYS_IN_WEEK = 7;
 ```
-### 5. Operatory
+### Operatory
 
 #### Aritmetyczne
 
@@ -89,7 +89,7 @@ const int DAYS_IN_WEEK = 7;
 - `/=` (podziel i przypisz)
 - `%=` (modulo i przypisz)
 
-### 6. Struktury sterujące
+### Struktury sterujące
 
 #### Instrukcje warunkowe
 
@@ -142,7 +142,7 @@ do {
     i++;
 } while (i < 10);
 ```
-### 7. Funkcje
+### Funkcje
 
 ### Deklarowanie i definiowanie funkcji:
 
@@ -164,7 +164,7 @@ int add(int a, int b) {
     return a + b;
 }
 ```
-### 8. Klasy i obiekty
+### Klasy i obiekty
 Klasy i obiekty są fundamentalnymi pojęciami programowania obiektowego w C++:
 
 - **Klasa**: Jest to szablon lub wzorzec definiujący właściwości i zachowania obiektów. Zawiera deklaracje danych (pola) oraz funkcji (metody), które mogą operować na tych danych. Klasa określa, jakie cechy mają obiekty tworzone na jej podstawie.
@@ -200,7 +200,7 @@ int main() {
     return 0;
 }
 ```
-### 9. Wskaźniki i referencje
+### Wskaźniki i referencje
 
 #### Wskaźniki:
 
