@@ -29,6 +29,18 @@ Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach ta
 [![Przycisk](C++_Picture.png)](C++.html)
 
 ## Strona Poświęcona Kotlin
+<details>
+  <summary>Kliknij tutaj, aby zobaczyć więcej</summary>
+  Kotlin to nowoczesny, statycznie typowany język programowania, stworzony przez JetBrains, który działa na maszynie wirtualnej Javy (JVM) i może być używany wszędzie tam, gdzie używana jest Java. Kotlin został zaprojektowany, aby być bardziej wyrazistym i bezpiecznym niż Java, eliminując wiele problemów związanych z błędami w kodzie. Kotlin jest w pełni interoperacyjny z Javą, co oznacza, że kod napisany w Kotlinie może współpracować z kodem napisanym w Javie bez żadnych problemów. Jest szczególnie popularny wśród programistów tworzących aplikacje na Androida, ponieważ Google ogłosił go jako preferowany język programowania dla tej platformy.
+
+Kluczowe cechy Kotlin:
+
+Bezpieczeństwo typów: Kotlin pomaga uniknąć błędów null pointer (NullPointerException) dzięki wbudowanym zabezpieczeniom przed używaniem wartości null.
+Zwięzłość: Kotlin pozwala pisać mniej kodu, oferując bardziej zwięzłe składnie niż Java.
+Interoperacyjność: Kotlin jest w pełni kompatybilny z Javą, co ułatwia migrację istniejących projektów i korzystanie z bogatej biblioteki Javy.
+Nowoczesne funkcje: Kotlin oferuje nowoczesne funkcje programowania obiektowego i funkcyjnego, takie jak wyrażenia lambda, rozszerzenia funkcji i bezpieczne wywołania.
+Kotlin jest używany przez wiele dużych firm i projektów open-source, co potwierdza jego rosnącą popularność i zaufanie społeczności programistycznej.
+</details>
 
 [![Przycisk](Kotlin.png)](Kotlin.html)
 
