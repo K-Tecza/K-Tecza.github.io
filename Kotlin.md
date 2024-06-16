@@ -4,7 +4,7 @@ layout: default
 
 [Strona Główna](index.md) | [C++](C++.md) | [Python](Python.md)
 
-
+# Kotlin
 
 ## Podstawy Kotlin
 
