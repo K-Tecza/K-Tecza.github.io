@@ -30,3 +30,19 @@ fun add(a: Int, b: Int): Int {
     return a + b
 }
 ```
+### Instrukcje warunkowe i pętle
+
+Kotlin wspiera standardowe instrukcje warunkowe (`if`, `else if`, `else`) oraz pętle (`for`, `while`, `do while`).
+
+```kotlin
+val x = 10
+if (x > 5) {
+    println("x jest większe niż 5")
+} else {
+    println("x nie jest większe niż 5")
+}
+
+for (i in 1..5) {
+    println(i)
+}
+```
