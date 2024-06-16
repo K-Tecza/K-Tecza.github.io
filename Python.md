@@ -3,6 +3,8 @@ layout: default
 ---
 [Strona Główna](index.md) | [Kotlin](Kotlin.md) | [C++](C++.md)
 
+# Python
+
 ## Podstawy Pythona
 
 Python to wysokopoziomowy język programowania, który cechuje się czytelnością składni oraz prostotą nauki. Został stworzony przez Guido van Rossuma i jest rozwijany jako projekt open-source. Python jest wszechstronny i używany do tworzenia różnorodnych aplikacji, od prostych skryptów po zaawansowane aplikacje internetowe i sztuczną inteligencję.\
