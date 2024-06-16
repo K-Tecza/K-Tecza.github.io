@@ -206,9 +206,9 @@ int main() {
     return 0;
 }
 ```
-## 9. Wskaźniki i referencje
+### 9. Wskaźniki i referencje
 
-### Wskaźniki:
+#### Wskaźniki:
 
 * Definicja: Wskaźniki są zmiennymi, które przechowują adres pamięci komputera, zamiast bezpośredniej wartości.
 
@@ -220,19 +220,28 @@ int a = 10;
 int *ptr = &a; // Wskaźnik przechowujący adres zmiennej 'a'
 std::cout << "Value of a: " << *ptr << std::endl; // Dereferencja wskaźnika
 ```
-### Referencje 
+#### Referencje 
 * Definicja: Referencje są aliasami istniejących zmiennych. Po zainicjowaniu referencji, może być używana zamiennie z oryginalną zmienną.
 
 * Charakterystyka: Są bezpieczniejsze w użyciu niż wskaźniki, ponieważ nie mogą być nullami ani zmieniać referencji na inne obiekty po zainicjowaniu.
 
 * Sposób działania: Zmiany dokonywane na referencji bezpośrednio wpływają na zmienną, do której się odwołuje.
+
 ```cpp
 int a = 10;
 int &ref = a; // Referencja do zmiennej 'a'
 ref = 20; // Zmienia wartość 'a' na 20
 std::cout << "Value of a: " << a << std::endl;
-
 ```
+### Podstawowe biblioteki standardowe
+
+- **Biblioteka wejścia/wyjścia:** `<iostream>` (`std::cin`, `std::cout`, `std::cerr`)
+- **Biblioteka łańcuchów znaków:** `<string>`
+- **Biblioteka kontenerów:** `<vector>`, `<array>`, `<map>`, `<set>`, itp.
+- **Biblioteka algorytmów:** `<algorithm>`
+
+Te podstawowe elementy C++ stanowią solidny fundament do nauki i rozwoju w programowaniu w tym języku. Na ich bazie można budować bardziej zaawansowane umiejętności i projekty.
+
 #### Header 4
 
 *   This is an unordered list following a header.
