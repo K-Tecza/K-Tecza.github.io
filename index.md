@@ -109,15 +109,15 @@ if (a > 5) {
 ```
 Krótko opisując:
 
-Zmienna a jest inicjalizowana wartością 10.
+* Zmienna a jest inicjalizowana wartością 10.
 
-Warunek if (a > 5) sprawdza, czy wartość zmiennej a jest większa od 5.
+* Warunek if (a > 5) sprawdza, czy wartość zmiennej a jest większa od 5.
 
-Jeśli warunek jest spełniony (czyli a jest większe od 5), wyświetlany jest komunikat "A is greater than 5".
+* Jeśli warunek jest spełniony (czyli a jest większe od 5), wyświetlany jest komunikat "A is greater than 5".
 
-W przeciwnym razie (gdy a nie jest większe od 5), wyświetlany jest komunikat "A is not greater than 5".
+* W przeciwnym razie (gdy a nie jest większe od 5), wyświetlany jest komunikat "A is not greater than 5".
 
-W ten sposób program decyduje, który komunikat powinien zostać wyświetlony na podstawie wartości zmiennej a.
+* W ten sposób program decyduje, który komunikat powinien zostać wyświetlony na podstawie wartości zmiennej a.
 
 
 #### Pętle
@@ -147,8 +147,30 @@ do {
     std::cout << i << std::endl;
     i++;
 } while (i < 10);
-
 ```
+### 7. Funkcje
+
+### Deklarowanie i definiowanie funkcji:
+
+Deklarowanie funkcji w C++ polega na określeniu jej istnienia poprzez podanie sygnatury funkcji (nazwy funkcji oraz typów jej parametrów i zwracanej wartości) bez implementacji. Definiowanie funkcji natomiast obejmuje dostarczenie dokładnej implementacji, która określa, jak funkcja ma działać, tj. zawiera blok kodu realizujący jej funkcjonalność. Deklarowanie umożliwia używanie funkcji w innych częściach programu, podczas gdy definiowanie jest konieczne do określenia szczegółów jej działania.
+```cpp
+#include <iostream>
+
+// Deklaracja funkcji
+int add(int a, int b);
+
+int main() {
+    int sum = add(5, 3); // Wywołanie funkcji
+    std::cout << "Sum: " << sum << std::endl;
+    return 0;
+}
+
+// Definicja funkcji
+int add(int a, int b) {
+    return a + b;
+}
+```
+
 
 #### Header 4
 
