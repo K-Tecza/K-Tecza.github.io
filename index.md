@@ -17,6 +17,11 @@ Witamy na naszej stronie, gdzie możesz dowiedzieć się więcej o podstawach ta
 
 [![Przycisk](C++_Picture.png)](C++.html)
 
+## Strona Poświęcona Kotlin
+
+[![Przycisk](Kotlin.png)](Kotlin.md)
+
+
 
 
 #### Header 4
