@@ -120,6 +120,36 @@ W przeciwnym razie (gdy a nie jest większe od 5), wyświetlany jest komunikat "
 W ten sposób program decyduje, który komunikat powinien zostać wyświetlony na podstawie wartości zmiennej a.
 
 
+#### Pętle
+
+##### Pętla for:
+Pętla for:
+Pętla for jest używana do iteracji przez zestaw instrukcji określoną liczbę razy, kontrolując zmienną iteracyjną. Składa się z trzech głównych części: inicjalizacji (ustawienie początkowej wartości zmiennej), warunku (określenia kiedy pętla powinna się zakończyć) oraz kroku (zmiany wartości zmiennej iteracyjnej po każdej iteracji). Jest idealna do sytuacji, gdzie liczba iteracji jest znana przed jej rozpoczęciem.
+```cpp
+for (int i = 0; i < 10; i++) {
+    std::cout << i << std::endl;
+}
+```
+##### Pętla while:
+Pętla while wykonuje blok kodu, dopóki podany warunek jest prawdziwy. Jest bardziej ogólna niż pętla for i używana, gdy nie jest z góry znana liczba iteracji. Wymaga ustawienia warunku przed jej rozpoczęciem, a następnie powtarza wykonanie kodu dopóki warunek jest spełniony. Może być stosowana w sytuacjach, gdzie warunek powtarzania może zmieniać się podczas działania programu.
+```cpp
+int i = 0;
+while (i < 10) {
+    std::cout << i << std::endl;
+    i++;
+}
+```
+##### Pętla do-while:
+Pętla do-while jest podobna do pętli while, jednak różni się tym, że sprawdzenie warunku występuje po wykonaniu kodu w bloku pętli. Oznacza to, że kod w bloku wykona się przynajmniej raz, niezależnie od tego, czy warunek jest spełniony czy nie. Jest przydatna, gdy chcemy, aby kod w pętli został wykonany przynajmniej raz, zanim sprawdzimy warunek kontynuacji pętli.
+```cpp
+int i = 0;
+do {
+    std::cout << i << std::endl;
+    i++;
+} while (i < 10);
+
+```
+
 #### Header 4
 
 *   This is an unordered list following a header.
