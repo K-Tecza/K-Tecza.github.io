@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[Strona Główna](index.md)
+
 ## Podstawy Kotlin
 
 Kotlin to nowoczesny język programowania stworzony przez JetBrains, zaprojektowany do działania na JVM (Java Virtual Machine), ale może być również kompilowany do JavaScriptu lub używany w natywnych aplikacjach dzięki Kotlin Native.
@@ -45,4 +48,22 @@ if (x > 5) {
 for (i in 1..5) {
     println(i)
 }
+```
+
+### Klasy i obiekty
+
+* Kotlin umożliwia definiowanie klas za pomocą słowa kluczowego `class`. Domyślnie klasy są `final`, ale można je oznaczyć jako `open`, aby były dziedziczone.
+
+* Obiekty mogą być tworzone bez potrzeby definiowania klasy za pomocą słowa kluczowego `object`.
+
+Na przykład :
+```kotlin
+class Car(val brand: String, val model: String) {
+    fun displayInfo() {
+        println("Brand: $brand, Model: $model")
+    }
+}
+
+val myCar = Car("Toyota", "Corolla")
+myCar.displayInfo()
 ```

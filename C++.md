@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[Strona Główna](index.md)
+
+
 ## Podstawy C++
 
 ### 1. Wprowadzenie do C++
