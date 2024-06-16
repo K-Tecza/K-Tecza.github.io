@@ -170,7 +170,42 @@ int add(int a, int b) {
     return a + b;
 }
 ```
+### 8. Klasy i obiekty
+Klasy i obiekty są fundamentalnymi pojęciami programowania obiektowego w C++:
 
+- **Klasa**: Jest to szablon lub wzorzec definiujący właściwości i zachowania obiektów. Zawiera deklaracje danych (pola) oraz funkcji (metody), które mogą operować na tych danych. Klasa określa, jakie cechy mają obiekty tworzone na jej podstawie.
+
+- **Obiekt**: Jest instancją klasy, czyli konkretnym przypadkiem lub reprezentacją klasy w czasie działania programu. Obiekt przechowuje własne kopie zmiennych składowych (pól) klasy i może wywoływać metody zdefiniowane w klasie.
+
+W praktyce, klasy i obiekty pozwalają na strukturalne organizowanie kodu, dzięki czemu można tworzyć modularne i łatwe w zarządzaniu aplikacje. Programowanie obiektowe opiera się na koncepcji enkapsulacji, dziedziczenia i polimorfizmu, które umożliwiają tworzenie bardziej elastycznych i rozszerzalnych rozwiązań programistycznych.
+
+### Podstawowa klasa:
+
+```cpp
+#include <iostream>
+
+// Definicja klasy
+class Car {
+public:
+    std::string brand;
+    std::string model;
+    int year;
+
+    void displayInfo() {
+        std::cout << "Brand: " << brand << ", Model: " << model << ", Year: " << year << std::endl;
+    }
+};
+
+int main() {
+    Car myCar; // Utworzenie obiektu
+    myCar.brand = "Toyota";
+    myCar.model = "Corolla";
+    myCar.year = 2020;
+
+    myCar.displayInfo(); // Wywołanie metody obiektu
+    return 0;
+}
+```
 
 #### Header 4
 
